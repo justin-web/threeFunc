@@ -1,0 +1,85 @@
+#topHeader {
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+	background-color: #404040;
+	height: 80px;
+	font-size: 50px;
+	font-family: 'Orbitron';
+	font-weight: bold;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#tittle {
+	margin: 0 auto;
+	position: absolute;
+	top: 110px;
+	left: 31%;
+	font-size: 34px;
+	color: ;
+	font-family: 'Orbitron';
+}
+
+#img1 {
+	margin: 0;
+	position: absolute;
+	top: 57%;
+	left: 42.5%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+#price {
+  margin: 0;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 40px;
+}
+
+#star {
+  margin: 0;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#keyboardimg {
+	width: 140%;
+	height: 140%;
+}
+
+body {
+	background-color: black;
+}
+
+#credit {
+	height: 50px;
+	width: 70px;
+	margin: 0;
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	color: white;
+}
